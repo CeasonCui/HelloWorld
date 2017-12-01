@@ -1,3 +1,3 @@
 @echo byebye!
-echo not hidden~
+@echo hidden~
 @pause>nul
